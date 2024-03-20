@@ -15,7 +15,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
-(https://stats.quine.sh/lillianassefa/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=lillianassefa)
+[![GitHub Stats](https://stats.quine.sh/lillianassefa/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=lillianassefa)
 <!---
 lillianassefa/lillianassefa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
